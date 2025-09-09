@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là <Phạm Thị Hoa Tím>, MSSV <226289>.
+Đây là README từ nhánh main.
